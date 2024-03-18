@@ -2486,6 +2486,7 @@ GameObject:
   - component: {fileID: 6042410238742144770}
   - component: {fileID: 3666671990050858037}
   - component: {fileID: 4943269015467064323}
+  - component: {fileID: 4919962965468130763}
   - component: {fileID: 1760420076835869739}
   m_Layer: 0
   m_Name: Dog_Doberman_01
@@ -2579,7 +2580,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 219a1207e9f2f2d478be9adcef1cc029, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 25
+  speed: 12
 --- !u!114 &4943269015467064323
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2590,6 +2591,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 57e0418740c39d24ab72dc1ca6b75d2b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &4919962965468130763
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3839650201415494483}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77db7f53b832d5e4c8329e64f20d4b13, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!65 &1760420076835869739
